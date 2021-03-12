@@ -1,6 +1,6 @@
 # BoxShooterGame
 
-A 3-D box shooter game created using Unity Game Engine and build it for the WebGL platform. 
+A 3-D first person, box shooter game created using Unity Game Engine and build it for the WebGL platform. 
 
 This game is inspired by the famous AimLabs Training Program which you can find on [steam](https://store.steampowered.com/app/714010/Aim_Lab/). 
 
